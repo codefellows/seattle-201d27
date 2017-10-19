@@ -3,29 +3,6 @@
 <a id="top"></a>
 ## Today's Plan: Week 1, Wednesday Lecture
 
-##### Quiz 2 will be published after lab today and will be due at 8:59am Friday morning
-
-#### Announcements
-
-- *Note: Sam will be in a meeting from 4-5 (at least) this afternoon.*
-
---
-
-#### Schedule for today
-
-- [Code Review](#codereview) *[45-60 minutes]*
-
-**10 minute break**
-
-- [JS Control Flow](#js) *[45-60 minutes]*
-
-**10 minute break**
-
-- [CSS Box Model](#box) *[30 minutes]*
-- [Git Review & Lab Prep](#git) *[30 minutes]*
-
---
-
 **Learning Objectives**
 
 As a result of completing Day 3 of Code 201, students will:
