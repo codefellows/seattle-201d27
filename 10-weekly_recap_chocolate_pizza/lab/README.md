@@ -3,7 +3,7 @@
 
 ## Chocolate Pizza: Create a webpage from a provided design comp
 
-***Your boss comes up to you just afternoon lunch: "OK, we just picked up this job, but I need it on my desk (well, in my inbox {{submitted in Canvas}}) by 5:00 this afternoon. It doesn't need to be perfect... it needs to be as close to perfect as you can get it in that time."***
+***Your boss comes up to you just afternoon lunch: "OK, we just picked up this job, but I need it on my desk (well, in my inbox {{submitted in Canvas}}) by 11:59pm this Sunday. It doesn't need to be perfect... it needs to be as close to perfect as you can get it in that time."***
 
 In lab today you will be building a single webpage based off of the provided design comp assets. This assignment is a lot of HTML and CSS, and not as much JS as we've been doing this week. In fact, you may choose to do this project with no JS at all, or just add some as a finishing touch.
 
@@ -17,7 +17,7 @@ This will be a pair-programming project, and you are free to set up whatever wor
 
 **GitHub Repository & Project Setup**
 
-Create a new repository for today called **chocolate-pizza**. If you're both going to be coding, have one user fork the other so that you can get some practice in your Git processes. Be sure to do frequent commits, and always do your work on branches. Before starting coding, think about a strategy for approaching this project. Before writing code, think about a practical order in which to do the work:
+Create a new repository for today called **chocolate-pizza**. If you're both going to be coding, have one user fork the other so that you can get some practice in your Git processes. You may also go the "add a collaborator" route that we discussed in class.  Be sure to do frequent commits, and always do your work on branches. Before starting coding, think about a strategy for approaching this project. Before writing code, think about a practical order in which to do the work:
 
 - When should you focus on styling?
 - When should you make a decision about a layout scheme?
