@@ -1,24 +1,6 @@
-# Class 10: JS Debugging and More CSS Layout
+# Class 10: Weekly Recap & Chocolate Pizza Assignment
 
-## Today's Plan: Week 2, Friday Lecture
-
-
-#### Quiz 6 will be published this afternoon, and will be due at 11:59 pm Sunday night.
-
-**Announcements**
-
- - Any general questions?
- - You have a fair amount of work for lab time today and the weekend:
-
-	- 1. Finish the Salmon Cookie project (get all functionality and styling in place)
-	- 2. Complete the wireframe exercise that we will start on in class today
-	- 3. Three chapters to read for Monday; these are not essential for the work we're doing next week, but more supplemental information. Feel free to put these off a bit, since late submissions of reading assignments are not penalized.
-	- 4. Quiz 6
-
-**We'll wrap class somewhere between 11:30 and 11:45 today so that we have a break before... [Partner Power Hour: Making the Transition from Software Engineer to Manager, with Daryl Thayil of Porch](https://www.eventbrite.com/e/partner-power-hour-making-the-transition-from-software-engineer-to-manager-tickets-38055725700?aff=slack)**
-
-
----
+**General**
 
 - Recent 201 final projects? Here's links to a few to peruse:
 	- [Slash Whooo?](http://wohlfea.github.io/cup-game)
@@ -27,15 +9,6 @@
 	- [Equip](http://heyduckd.github.io/equip/)
 	- [Bro Nacho](http://bronacho.com)
 	- [Welcome to Seattle](http://peterbreen.github.io/welcome-to-seattle/)
-- Code Review
-
-- [JS Debugging with Allie](#debugging)
-
-*15-minute break*
-
-- [CSS Wireframe Exercise with Sam](#wireframe)
-
----
 
 <a id="debugging"></a>
 ## JS Debugging
