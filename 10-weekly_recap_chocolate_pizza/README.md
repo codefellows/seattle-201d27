@@ -1,6 +1,6 @@
 # Class 10: Weekly Recap & Chocolate Pizza Assignment
 
-**General**
+## General
 
 - Recent 201 final projects? Here's links to a few to peruse:
 	- [Slash Whooo?](http://wohlfea.github.io/cup-game)
@@ -52,13 +52,6 @@
 - p.480: Handling exceptions with `try`, `catch`, and `finally`
 - p.484: Debugging tips [IMPORTANT!]
 - p.485: Common errors [IMPORTANT!]
-
-[-top-](#top)
-
-<a id="wireframe"></a>
-## CSS Wireframe Exercise
-
-Let's build out some of the wireframe exercise!
 
 [-top-](#top)
 
